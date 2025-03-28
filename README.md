@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yanan!！！
+# 👋 Hi there, I'm Yanan!!!
 
 ## 🧐 About Me
 - 🎓  I'm currently a second-year PhD student at UMass Amherst
