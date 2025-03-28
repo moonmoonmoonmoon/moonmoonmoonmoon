@@ -1,10 +1,12 @@
 # 👋 Hi there, I'm Yanan!!!
 
+
 ## 🧐 About Me
 - 🎓  I'm currently a second-year PhD student at UMass Amherst
 - 🌱 I'm currently learning LLM、Image and PointCloud Generation.
 - 👯 I'm looking to collaborate on Open Source Projects
 - 💬 Ask me about Python, Computer Vision, AIGC
+
 
 ## 🔧 Tech Stack
 
@@ -27,37 +29,43 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white)
 <!-- 添加你使用的其他工具 -->
 
-## 📊 GitHub Stats
-![Amy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonmoonmoonmoon&show_icons=true&theme=radical)
 
-Featured Projects
-[2025_bus_dual_simulate_real_detection]
+##🎯 Featured Projects
+[2025_bus_dual_simulate_real_detection] 
 
-Description: [Simulate dual lidars data collection or real record data stream to detect objects, the analyze safety and risks.]
-Tech Stack: [Pointcloud Registration、Slam(kiss-icp)、Cluster Detection、Safety Analysis]
-[View Project](project link)
+* Description: Simulate dual lidars data collection or real record data stream to detect objects, the analyze safety and risks
+* Tech Stack: Python, Pytorch, Open3D, NumPy
+* Core pipeline: Pointcloud Registration、Slam(kiss-icp)、Cluster Detection、Safety Analysis
+* View Project
 
 [Improved PointPillars for 3D object detection]
 
-Description: [Merge multi-channel images and increased pointcloud features for 3D object detection]
-Tech Stack: [Technologies used]
-[View Project](project link)
+* Description: [Merge multi-channel images and increased pointcloud features for 3D object detection]
+* Tech Stack: [Technologies used]
+* [View Project](project link)
 
-📫 How to Reach Me
 
-Email: yananzhang@umass.edu
 
-LinkedIn: [Yanan Zhang](https://www.linkedin.com/feed/)
 
-ResearchGate: [My ResearchGate Profile](https://www.researchgate.net/profile/Yanan-Zhang-81)
+## 📊 GitHub Stats
+![Amy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonmoonmoonmoon&show_icons=true&theme=radical)
+
+
+📫 How to Reach Me📮
+
+* Email: yananzhang@umass.edu
+
+* LinkedIn: [Yanan Zhang](https://www.linkedin.com/feed/)
+
+* ResearchGate: [My ResearchGate Profile](https://www.researchgate.net/profile/Yanan-Zhang-81)
 
 🎯 2025 Goals
 
-🚀 Contribute more to open source projects
-📚 Advance my research work
-🌐 Expand my technical knowledge
+* 🚀 Contribute more to open source projects
+* 📚 Advance my research work
+* 🌐 Expand my technical knowledge
 
 ⚡ Fun Facts
 
-Always looking for interesting research collaborations!
+* Always looking for interesting research collaborations!
 [Other fun facts you'd like to share]
