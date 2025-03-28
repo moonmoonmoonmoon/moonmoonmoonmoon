@@ -4,7 +4,7 @@
 - 🎓  I'm currently a second-year PhD student at UMass Amherst
 - 🌱 I'm currently learning LLM、Image and PointCloud Generation.
 - 👯 I'm looking to collaborate on Open Source Projects
-- 💬 💬 Ask me about Python, Computer Vision, AIGC
+- 💬 Ask me about Python, Computer Vision, AIGC
 
 ## 🔧 Tech Stack
 
@@ -31,22 +31,24 @@
 ![Amy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonmoonmoonmoon&show_icons=true&theme=radical)
 
 Featured Projects
-[Project Name]
+[2025_bus_dual_simulate_real_detection]
 
-Description: [Brief project description]
-Tech Stack: [Technologies used]
+Description: [Simulate dual lidars data collection or real record data stream to detect objects, the analyze safety and risks.]
+Tech Stack: [Pointcloud Registration、Slam(kiss-icp)、Cluster Detection、Safety Analysis]
 [View Project](project link)
 
-[Another Project Name]
+[Improved PointPillars for 3D object detection]
 
-Description: [Brief project description]
+Description: [Merge multi-channel images and increased pointcloud features for 3D object detection]
 Tech Stack: [Technologies used]
 [View Project](project link)
 
 📫 How to Reach Me
 
 Email: yananzhang@umass.edu
+
 LinkedIn: [Yanan Zhang](https://www.linkedin.com/feed/)
+
 ResearchGate: [My ResearchGate Profile](https://www.researchgate.net/profile/Yanan-Zhang-81)
 
 🎯 2025 Goals
