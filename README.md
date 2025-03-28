@@ -46,8 +46,8 @@ Tech Stack: [Technologies used]
 📫 How to Reach Me
 
 Email: yananzhang@umass.edu
-LinkedIn: https://www.linkedin.com/feed/
-ResearchGate: (https://www.researchgate.net/profile/Yanan-Zhang-81)
+LinkedIn: [Yanan Zhang](https://www.linkedin.com/feed/)
+ResearchGate: [My ResearchGate Profile](https://www.researchgate.net/profile/Yanan-Zhang-81)
 
 🎯 2025 Goals
 
