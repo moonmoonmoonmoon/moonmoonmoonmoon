@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Amy
+# 👋 Hi there, I'm Yanan!！！
 
 ## 🧐 About Me
 - 🎓  I'm currently a second-year PhD student at UMass Amherst
@@ -28,7 +28,7 @@
 <!-- 添加你使用的其他工具 -->
 
 ## 📊 GitHub Stats
-![Amy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![Amy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moonmoonmoonmoon&show_icons=true&theme=radical)
 
 Featured Projects
 [Project Name]
