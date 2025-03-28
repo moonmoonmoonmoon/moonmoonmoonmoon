@@ -1,5 +1,3 @@
-<img src="https://github.com/moonmoonmoonmoon/moonmoonmoonmoon/blob/main/Picture.jpeg" width="200" height="200" style="border-radius:50%; margin-right:20px;" align="left" alt="personal picture"/>
-
 # 👋 Hi there, I'm Amy
 
 ## 🧐 About Me
